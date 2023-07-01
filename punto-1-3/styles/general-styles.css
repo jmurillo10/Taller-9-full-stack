@@ -27,3 +27,12 @@ a{
     letter-spacing: -0.64px;
 
  }
+ p{
+   font-family: 'Jost';
+   font-size: 15px;
+   font-weight: 300;
+ }
+
+ body {
+   margin: 0px;
+ }
