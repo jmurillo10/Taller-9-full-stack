@@ -1,0 +1,42 @@
+body {
+    text-align: left;
+    font-family: Arial, sans-serif;
+}
+
+.texto-rojo {
+    color: red;
+}
+
+.texto-verde {
+    color: green;
+    text-decoration: underline;
+}
+
+.texto-negro {
+    color: black;
+    text-decoration: underline overline;
+}
+
+.texto-negrita {
+    color: black;
+    font-weight: bold;
+}
+
+.texto-negrita-grande {
+    color: black;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.texto-azul-negrilla {
+    color: blue;
+    font-weight: bold;
+}
+
+.texto-rojo-negrilla {
+    color: red;
+    font-weight: bold;
+}
+
+
+

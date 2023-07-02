@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+a {
+    text-decoration: underline;
+}
+
+.enlace-negro {
+    color: black;
+}
+
+.enlace-amarillo,
+.enlace-amarillo:hover {
+    color: yellow;
+}
+
+.enlace-morado,
+.enlace-morado:hover {
+    color: purple;
+}
+
